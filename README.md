@@ -1,5 +1,6 @@
 # Roblon-Search-Page-front-end
 It is a clone for search page of www.roblon.com website and involves the front end part alone.
+I have used HTML, CSS and Bootstrap
 
 Step 1: Download the zip file and extract all the files
 
